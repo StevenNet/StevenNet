@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StevenNet
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning how to create minecraft mods
-- 💞️ I’m looking to collaborate on vex iq 
+- 🌱 I’m currently learning how to create minecraft mods and android apps
 - 📫 How to reach me (you don't)
 
 <!---
